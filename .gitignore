@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+*.py
+
+# Virtual environment
+bin/
+etc/
+include/
+lib/
+lib64/
+share/
+images/
+pyvenv.cfg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Sensitive Files
+Files/index.html
+Files/gcp_credential.json
+Files/youtube_client_secrets.json.json
+
+# Optional (if you want to skip heavy/intermediate notebooks)
+california-housing-price.ipynb
+spamEmailDetection.ipynb
+phase*.ipynb
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
