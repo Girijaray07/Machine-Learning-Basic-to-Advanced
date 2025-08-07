@@ -96,7 +96,7 @@ This repository is under the **MIT License**. Feel free to use, modify, and shar
 
 ---
 
-## 📄 Author
+## Author
 
 [Girija's Github](https://github.com/Girijaray07)
 
