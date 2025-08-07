@@ -98,7 +98,7 @@ This repository is under the **MIT License**. Feel free to use, modify, and shar
 
 ## Author
 
-[Girija's Github](https://github.com/Girijaray07)
+[Girija Shankar Ray](https://github.com/Girijaray07)
 
 Passionate about machine learning, data visualization, and building tools that help others learn.
 
