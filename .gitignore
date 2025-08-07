@@ -4,6 +4,7 @@ __pycache__/
 *.egg-info/
 *.log
 *.py
+*.html
 
 # Virtual environment
 bin/
