@@ -28,6 +28,7 @@ Files/youtube_client_secrets.json.json
 california-housing-price.ipynb
 spamEmailDetection.ipynb
 phase*.ipynb
+extra*.ipynb
 
 # VSCode
 .vscode/
