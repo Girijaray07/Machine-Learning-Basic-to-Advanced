@@ -29,6 +29,7 @@ california-housing-price.ipynb
 spamEmailDetection.ipynb
 phase*.ipynb
 extra*.ipynb
+Project*
 
 # VSCode
 .vscode/
