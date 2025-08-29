@@ -30,6 +30,7 @@ spamEmailDetection.ipynb
 phase*.ipynb
 extra*.ipynb
 Project*
+DATA*
 
 # VSCode
 .vscode/
