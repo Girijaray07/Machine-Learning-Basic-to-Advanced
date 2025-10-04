@@ -20,6 +20,7 @@ pyvenv.cfg
 .ipynb_checkpoints/
 
 # Sensitive Files
+Files/garbage_classification
 Files/index.html
 Files/gcp_credential.json
 Files/youtube_client_secrets.json.json
