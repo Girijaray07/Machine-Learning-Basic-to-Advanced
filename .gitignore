@@ -7,14 +7,8 @@ __pycache__/
 *.html
 
 # Virtual environment
-bin/
-etc/
-include/
-lib/
-lib64/
-share/
+venv/
 images/
-pyvenv.cfg
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
