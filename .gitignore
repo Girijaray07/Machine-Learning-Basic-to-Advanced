@@ -7,8 +7,9 @@ __pycache__/
 *.html
 
 # Virtual environment
-venv/
+.venv/
 images/
+logs/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -24,6 +25,7 @@ california-housing-price.ipynb
 spamEmailDetection.ipynb
 phase*.ipynb
 extra*.ipynb
+test*.ipynb
 Project*
 DATA*
 
